@@ -1,0 +1,14 @@
+{
+  "name": "deepak-nginx",
+  "version": "0.1.0",
+  "author": "Deepak Dharan Padmini",
+  "summary": "Simple Manifest to install Nginx",
+  "license": "Apache 2.0",
+  "source": "Github.com",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
