@@ -6,7 +6,7 @@ class nginx::install {
   # install Nginx package
   package { 'nginx':
     ensure => installed,
-    notify => nginx::config
+    #notify => nginx::config
   }
 
 }
